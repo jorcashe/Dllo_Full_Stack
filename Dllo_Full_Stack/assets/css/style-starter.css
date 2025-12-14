@@ -2713,7 +2713,7 @@
   text-transform: capitalize; }
 
 .w3l-hero-headers-9 .slide {
-  background: url(../images/1.jpg) no-repeat center;
+  background: url(../images/christmas-513471_1280.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -12298,7 +12298,8 @@ body,
 html {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+ Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   background-color: var(--bg-color); }
 
 * {
